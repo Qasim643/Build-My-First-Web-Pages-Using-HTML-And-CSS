@@ -1,0 +1,56 @@
+/* body{
+    background-color: darkgray;
+} */
+/* navigation  */
+#navbar{
+    /* display: flex; */
+    justify-content: center;
+    flex-direction: column;
+}
+/* #navbar ul li a{
+    
+    justify-content: center;
+    align-items:center;
+} */
+/* #logo img{
+    justify-content: center;
+    align-items: center;
+} */
+
+
+/* home */
+/* #Home{
+
+
+
+} */
+
+/* services section  */
+/* #services{
+flex-direction: column;
+
+
+} */
+
+/* client section  */
+
+/* #clients{
+
+overflow: hidden;
+
+} */
+
+/* contact us */
+#contact{
+
+
+
+}
+
+/* footer  */
+/* footer{
+
+
+
+
+} */
